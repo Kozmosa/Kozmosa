@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center"><i>there is no end to life, no end to learning.</i></h1>
+<h1 align="center"><i>there is an end to life, no end to learning.</i></h1>
 
 <div align="center">
   <img
